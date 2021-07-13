@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2ERegressionTestSuite", "E2ERegressionTestSuite\E2ERegressionTestSuite.csproj", "{C6207FE6-946A-4C3E-AD81-1D3D8BAA22E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FC88E3FA-44D3-4460-BB4B-81711AB1C38E}"
+	ProjectSection(SolutionItems) = preProject
+		E2ERegressionTestSuite\tab.ico = E2ERegressionTestSuite\tab.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6207FE6-946A-4C3E-AD81-1D3D8BAA22E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6207FE6-946A-4C3E-AD81-1D3D8BAA22E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6207FE6-946A-4C3E-AD81-1D3D8BAA22E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6207FE6-946A-4C3E-AD81-1D3D8BAA22E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DDD9023-AB79-46D1-9490-183E9EA34AF6}
+	EndGlobalSection
+EndGlobal
